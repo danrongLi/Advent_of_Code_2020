@@ -24,7 +24,6 @@ class Car:
         else:
             pass
 
-
 if __name__ == '__main__':
 
     my_car = Car()
