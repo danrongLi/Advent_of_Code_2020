@@ -19,3 +19,4 @@ if __name__ == "__main__":
     vals = readFile()
     print(f"Part 1: {part1(vals)}")
     print(f"Part 2: {part2(vals)}")
+# jk
